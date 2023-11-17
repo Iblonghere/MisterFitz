@@ -1,6 +1,9 @@
 # MisterFitz 
 The Python code for system monitoring and security analysis.
 
+## Git Clone
+git clone https://github.com/Iblonghere/MisterFitz/edit/main/README.md
+
 ## Introduction (Windows/Linux)
 This README file provides an overview of Mister Fitz the Python code for system monitoring and security analysis. The code utilizes various libraries and tools to gather system information, visualize system usage, track network activity, analyze system logs, detect malware attacks, and identify insider threats.
 
