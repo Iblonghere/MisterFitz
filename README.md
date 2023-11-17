@@ -7,7 +7,7 @@ git clone https://github.com/Iblonghere/MisterFitz
 ## Introduction (Windows/Linux)
 This README file provides an overview of Mister Fitz the Python code for system monitoring and security analysis. The code utilizes various libraries and tools to gather system information, visualize system usage, track network activity, analyze system logs, detect malware attacks, and identify insider threats.
 
-### Windows Code Overview
+## Windows Code Overview
 The Python code consists of the following main components:
 1. System Information Retrieval: The code retrieves CPU, memory, and disk usage information using the `psutil` library.
 2. Visualization: It creates visualizations of system usage using `matplotlib` and `seaborn`.
